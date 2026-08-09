@@ -47,7 +47,6 @@ Every decision matters.
 * Character
 * Player
 * Zombie
-* FastZombie
 * TankZombie
 * Item
 * Weapon
