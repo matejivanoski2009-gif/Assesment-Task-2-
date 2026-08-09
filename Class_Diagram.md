@@ -1,7 +1,7 @@
 # Class Diagram
 
 ## Description for Class Diagram
-The class diagram shows the main classes that will be used in Dead Zone: Polymorphism and how they are connected. It includes the attributes and methods of each class and shows relationships such as inheritance between the different characters, zombies and items. The diagram helps plan how the game will be structured using OOP concepts and will be used as a guide when developing the Python code.
+The class diagram highlights the main classes that will be used in Dead Zone: Polymorphism and how they are connected. It includes the attributes and methods of each class and shows relationships such as inheritance between the different characters, zombies and items. The diagram helps plan how the game will be structured using OOP concepts and will be used as a guide when developing the Python code.
 
                          ┌────────────────────────┐
                          │       Character        │
@@ -89,4 +89,4 @@ The class diagram shows the main classes that will be used in Dead Zone: Polymor
         │ + gameOver()            │
         └─────────────────────────
 
-Class Diagram created using the help of Textik and Miro. 
+Class Diagram created using the help of Textik and Miro to be made in Github format.
