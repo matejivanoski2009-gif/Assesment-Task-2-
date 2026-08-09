@@ -329,6 +329,9 @@ If I developed a sequel, I could add:
 * More NPC interactions
 * Difficulty levels
 
+Final Reflection & Sequel Idea:
+Completing Dead Zone: Polymorphism has given me ideas for how the game could be expanded in the future. A possible sequel, Dead Zone: Aftermath, could continue the story after the players escape. This would allow me to build on the OOP concepts used in the first game while creating a larger and more complex RPG.
+
 Overall Evaluation:
 
 Dead Zone: Polymorphism successfully demonstrates how Object-Oriented Programming can be applied to the development of a text-based RPG. The project also helped me understand the importance of planning, testing, debugging and documenting software throughout the development process.
