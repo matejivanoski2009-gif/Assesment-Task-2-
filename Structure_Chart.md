@@ -1,7 +1,7 @@
 # Structure Chart:
 
 ### Description for Structure Chart:
-The structure chart shows how the main parts of Dead Zone: Polymorphism are organised and how the different game processes connect with each other. It breaks the game into sections such as setup, gameplay and the end game, with smaller processes underneath each section. This helps show the overall flow of the game and provides a clear plan for how the different functions and processes will work together when the game is developed.
+The structure chart shows how the main parts of Dead Zone: Polymorphism are organised and how the different game processes connect with each other. It breaks the game into sections such as setup, gameplay, and the endgame, with smaller processes under each section. This helps provide a clear plan for how the different functions and processes will work together when the game is developed.
 
 ---
 
