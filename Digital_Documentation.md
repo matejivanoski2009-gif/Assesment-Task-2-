@@ -22,7 +22,7 @@ What I did
 
 I began planning my Year 11 Software Engineering RPG project. After considering different possible themes, I decided to create a zombie apocalypse survival game.
 
-I chose the name Dead Zone: Polymorphism because the game will use different types of zombies that can share common methods but behave differently. This will allow me to demonstrate polymorphism in my program.
+I chose the name Dead Zone: Polymorphism since the game will utilise different types of zombies that can share common methods but behave differently. This will allow me to demonstrate polymorphism in my program.
 
 I also identified some of the main features I want to include, such as exploring locations, collecting items, fighting zombies and reaching an evacuation zone.
 
