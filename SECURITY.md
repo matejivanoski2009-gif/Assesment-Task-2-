@@ -1,8 +1,6 @@
-# Security Policy
+# Security Policy:
 
-## Supported Versions
-
-The table below outlines which versions of the project currently receive security updates.
+## Supported Versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
