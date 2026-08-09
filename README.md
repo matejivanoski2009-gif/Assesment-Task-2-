@@ -1,5 +1,5 @@
 # Assessment-Task-2- Software Engineering Year 11
-This is the text based game for the Software Engineering Task 2
+This is the text-based game for the Software Engineering Task 2
 
 ## Dead Zone: Polymorphism
 
@@ -60,4 +60,5 @@ Created by Matej Ivanoski
 Year 11 Software Engineering Project
 
 Inspired by classic text adventure games including Hunt the Wumpus.
+(To see the full copy of the code, view the dead_zone.py file on GitHub)
 
