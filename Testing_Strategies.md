@@ -1,8 +1,8 @@
-# Testing Strategies — Dead Zone: Polymorphism
+# Testing Strategies — Dead Zone: Polymorphism:
 
 Testing will be used throughout the development of Dead Zone: Polymorphism to identify errors, verify that the game works as expected, and ensure that the final product meets the success criteria. Different types of testing will be used to test individual parts of the program as well as the complete game.
 
-## Unit Testing
+## Unit Testing:
 
 Unit testing will be used to test individual classes and methods separately. This will help identify problems in specific parts of the program before they affect the rest of the game.
 
@@ -10,13 +10,11 @@ Examples of unit tests include:
 
 - Testing the Player class
 - Testing the Zombie class
-- Testing zombie attack methods
 - Testing player health
-- Testing item use
 - Testing inventory methods
 - Testing movement methods
 
-### Example Unit Tests
+### Example Unit Tests:
 
 | Test | Input | Expected Result |
 |---|---|---|
@@ -29,7 +27,7 @@ Examples of unit tests include:
 
 ---
 
-## Subsystem Testing
+## Subsystem Testing:
 
 Subsystem testing will test groups of related functions working together.
 
@@ -44,7 +42,7 @@ For example, when the player finds a weapon, the weapon should be added to the i
 
 ---
 
-## System Testing
+## System Testing:
 
 System testing will test the complete game as one system. This will make sure that all of the different parts of the game work together correctly.
 
@@ -61,15 +59,13 @@ The complete game will be tested from the beginning to the end, including:
 9. Entering the evacuation zone
 10. Winning the game
 
-The game will also be tested to make sure the player can lose if their health reaches zero.
-
 ---
 
-## Black-Box Testing
+## Black-Box Testing:
 
 Black-box testing will focus on the inputs and outputs of the game without looking at how the internal code works.
 
-For example, a tester could enter an invalid menu option and check whether the game gives an appropriate error message rather than crashing.
+For instance, a tester could enter an invalid menu option and check whether the game gives an appropriate error message rather than crashing.
 
 | Test | Input | Expected Result |
 |---|---|---|
@@ -81,7 +77,7 @@ For example, a tester could enter an invalid menu option and check whether the g
 
 ---
 
-## White-Box Testing
+## White-Box Testing:
 
 White-box testing will involve examining the internal code and logic of the program.
 
@@ -100,7 +96,7 @@ For example, the different `attack()` methods in the zombie classes can be check
 
 ---
 
-## Grey-Box Testing
+## Grey-Box Testing:
 
 Grey-box testing will combine knowledge of the game's internal structure with testing the game through normal user inputs.
 
@@ -134,5 +130,3 @@ The game will use normal, invalid, boundary and extreme test data to make sure d
 | Valid | `inventory` | Inventory is displayed |
 
 ---
-
-Testing results will be recorded and any errors found will be fixed before the final version is submitted.
