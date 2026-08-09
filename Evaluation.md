@@ -1,14 +1,12 @@
 # Evaluation — Dead Zone: Polymorphism
 
-## Overview
+## Overview:
 
 Dead Zone: Polymorphism was developed as a text-based RPG adventure game using Python and Object-Oriented Programming. The aim of the game is for the player to survive a zombie apocalypse, explore different locations, collect useful items, defeat or avoid zombies and reach the evacuation zone.
 
-The final game will be evaluated against the original success criteria to determine the solution's success.
-
 ---
 
-## Success Criteria
+## Success Criteria:
 
 | Success Criterion | Result | Evaluation |
 |---|---|---|
@@ -27,33 +25,27 @@ The final game will be evaluated against the original success criteria to determ
 
 ---
 
-## OOP Evaluation
-
+## OOP Evaluation:
 The game will demonstrate several Object-Oriented Programming concepts.
 
-### Classes and Objects
-
+### Classes and Objects:
 The game uses classes to represent important parts of the game, such as the Player, Zombie, Item and Location. Objects can then be created from these classes during gameplay.
 
-### Inheritance
-
+### Inheritance:
 Inheritance is used so that related classes can share common attributes and methods. For example, different zombie types inherit from the Zombie class.
 
-### Polymorphism
-
+### Polymorphism:
 Polymorphism is one of the main concepts demonstrated in the game. Different zombie classes can use the same method, such as `attack()`, while producing different behaviours.
 
-### Encapsulation
-
+### Encapsulation:
 Encapsulation is used to keep related data and behaviours together inside classes. For example, the Player class manages information such as health, inventory and equipment.
 
-### Abstraction
-
+### Abstraction:
 Abstraction allows the player to interact with the game using simple commands without needing to understand the code behind each action.
 
 ---
 
-## Improvements
+## Improvements:
 
 If the game were developed further, possible improvements could include:
 
@@ -68,10 +60,15 @@ If the game were developed further, possible improvements could include:
 - Difficulty levels
 - Save and load functionality
 
+## Sequel Proposal - Dead Zone: Aftermath
+A possible sequel to *Dead Zone: Polymorphism* could be called **Dead Zone: Aftermath**. The story could continue after the player escaped from the evacuation zone, revealing that the zombie outbreak has spread beyond the original city.
+
+The sequel could introduce new locations, stronger zombie types, a larger map and possibly multiple endings.
+
+> **“Escaping the city was only the beginning...”**
+
 ---
 
-## Overall Evaluation
+## Overall Evaluation:
+The final game will be evaluated against the original success criteria to determine how successfully the project achieved its intended purpose.
 
-To be completed after the final game has been developed and tested.
-
-The final evaluation will compare the completed game against the original success criteria and explain whether the project successfully achieved its intended purpose.
