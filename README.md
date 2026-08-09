@@ -17,7 +17,7 @@ A deadly virus has spread across the city, turning humans into violent infected 
 * unlock the evacuation zone
 * make choices that affect your survival
 
-### Every decision matters.
+Every decision matters.
 
 
 ## Features:
