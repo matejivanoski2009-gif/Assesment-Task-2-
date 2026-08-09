@@ -1,7 +1,7 @@
 # Data Dictionary:
 
 ## Description for Data Dictionary:
-The data dictionary provides an overview of the main data and variables that will be used in Dead Zone: Polymorphism. It explains what each variable is used for, the type of data it stores, an example of the information it could contain, and any validation rules that need to be followed. This will help keep the game organised and make it easier to understand how information such as the player’s health, inventory, location, weapons and zombie statistics are stored and used. The data dictionary can also be updated throughout development if new variables are added or existing ones are changed.
+The data dictionary provides an overview of the main data and variables that will be used in Dead Zone: Polymorphism. It explains what each variable is used for, the type of data it stores, an example of the information it could contain, and any validation rules that need to be followed. This will help keep the game organised and make it easier to understand how information such as the player’s health, inventory, location, weapons and zombie statistics are stored and used.
 
 | Variable | Data Type | Format for Display | Size for Display | Description | Example | Validation |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
