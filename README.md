@@ -1,7 +1,7 @@
 # Assessment-Task-2- Software Engineering Year 11
-This is the text-based game for the Software Engineering Task 2
+This is the GitHub repository for the text-based game for the Software Engineering Task 2. It includes the code for the game, digital documentation including the journal, structure chart, data dictionary, class diagram, testing strategies and final evaluation for the game.
 
-## Dead Zone: Polymorphism
+## Dead Zone: Polymorphism:
 
 ## Overview:
 
@@ -9,7 +9,7 @@ Dead Zone: Polymorphism is a text-based RPG adventure game developed in Python u
 
 ## Story:
 
-A deadly virus has spread across the city, turning humans into violent infected creatures. You are one of the last survivors left alive.
+A deadly virus has spread across the city, turning humans into violent infected creatures. You are one of the last survivors.
 
 ### To escape, you must:
 * explore abandoned locations
@@ -17,8 +17,6 @@ A deadly virus has spread across the city, turning humans into violent infected 
 * survive zombie encounters
 * unlock the evacuation zone
 * make choices that affect your survival
-
-Every decision matters.
 
 
 ## Features:
@@ -42,16 +40,6 @@ Every decision matters.
 | Encapsulation | Player health and inventory handled through methods |
 | Abstraction | User interacts through simple game commands |
 | Polymorphism | Different zombies use the same attack method differently |
-
-## Classes Included:
-* Character
-* Player
-* Zombie
-* TankZombie
-* Item
-* Weapon
-* Location
-* Game
 
 ## Credits
 
